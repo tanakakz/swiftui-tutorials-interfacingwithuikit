@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		360E7F2123E0F5C8002EF9EB /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360E7F2023E0F5C8002EF9EB /* PageViewController.swift */; };
 		360E7F2323E0F786002EF9EB /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360E7F2223E0F786002EF9EB /* PageView.swift */; };
+		36120E6723E38E6D00D5D965 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36120E6623E38E6D00D5D965 /* PageControl.swift */; };
 		B7310DD1229F6839001079B9 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7310DD0229F6839001079B9 /* HexagonParameters.swift */; };
 		B7310DD3229F6CA9001079B9 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7310DD2229F6CA9001079B9 /* Badge.swift */; };
 		B7394866229F194000C47603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394865229F194000C47603 /* AppDelegate.swift */; };
@@ -62,6 +63,7 @@
 /* Begin PBXFileReference section */
 		360E7F2023E0F5C8002EF9EB /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		360E7F2223E0F786002EF9EB /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		36120E6623E38E6D00D5D965 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		73F95A9A1230AE62CF0AAC9F /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = ../Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
 		ABFE17D910FE79A157ADD56D /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		B7310DD0229F6839001079B9 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 			children = (
 				360E7F2023E0F5C8002EF9EB /* PageViewController.swift */,
 				360E7F2223E0F786002EF9EB /* PageView.swift */,
+				36120E6623E38E6D00D5D965 /* PageControl.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -385,6 +388,7 @@
 				B739489F229F2D9700C47603 /* LandmarkRow.swift in Sources */,
 				360E7F2323E0F786002EF9EB /* PageView.swift in Sources */,
 				B7D587DB22A08D67006E8DCF /* ProfileSummary.swift in Sources */,
+				36120E6723E38E6D00D5D965 /* PageControl.swift in Sources */,
 				B7D2AAC5229F4D7C0061E5F5 /* UserData.swift in Sources */,
 				B7394881229F28B900C47603 /* Landmark.swift in Sources */,
 				B7D587DF22A08E1A006E8DCF /* ProfileEditor.swift in Sources */,
